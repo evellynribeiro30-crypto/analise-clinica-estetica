@@ -1,0 +1,501 @@
+id_atendimento,data,mes,dia_semana,servico,profissional,status,convenio,bairro_cliente,valor_R$,nota_avaliacao
+1001,2024-10-16,2024-10,Wednesday,Radiofrequência,Esteta Carla,Realizado,Particular,Centro,378.58,4.0
+1002,2023-04-25,2023-04,Tuesday,Preenchimento Labial,Dra. Paula Mendes,Cancelado,Particular,Alto da Serra,1432.49,
+1003,2023-01-26,2023-01,Thursday,Peeling Químico,Dra. Ana Lima,Faltou,Unimed,Vila Nova,296.76,
+1004,2023-10-09,2023-10,Monday,Hidratação Facial,Dra. Ana Lima,Realizado,Particular,Centro,185.95,5.0
+1005,2023-09-08,2023-09,Friday,Limpeza de Pele,Esteta Renata,Realizado,Unimed,Centro,184.11,4.0
+1006,2023-08-17,2023-08,Thursday,Peeling Químico,Esteta Renata,Realizado,Unimed,Alto da Serra,307.02,
+1007,2023-05-23,2023-05,Tuesday,Depilação a Laser,Esteta Carla,Faltou,Particular,Centro,257.36,3.0
+1008,2023-04-15,2023-04,Saturday,Radiofrequência,Dra. Ana Lima,Cancelado,Particular,Jardim,349.92,5.0
+1009,2024-11-23,2024-11,Saturday,Depilação a Laser,Dra. Ana Lima,Realizado,Particular,Centro,269.14,3.0
+1010,2024-07-12,2024-07,Friday,Hidratação Facial,Dra. Paula Mendes,Realizado,Particular,Campestre,199.16,4.0
+1011,2023-03-31,2023-03,Friday,Botox,Dra. Ana Lima,Realizado,Particular,Campestre,1101.05,
+1012,2024-08-27,2024-08,Tuesday,Hidratação Facial,Dra. Paula Mendes,Realizado,Bradesco Saúde,Alto da Serra,195.32,
+1013,2024-03-08,2024-03,Friday,Botox,Dra. Ana Lima,Realizado,Particular,Vila Nova,1180.62,5.0
+1014,2023-02-02,2023-02,Thursday,Limpeza de Pele,Dra. Paula Mendes,Realizado,Bradesco Saúde,Vila Nova,185.14,
+1015,2023-01-31,2023-01,Tuesday,Depilação a Laser,Dra. Paula Mendes,Faltou,Particular,Jardim,264.86,
+1016,2023-04-06,2023-04,Thursday,Microagulhamento,Dra. Ana Lima,Realizado,Particular,Vila Nova,379.93,
+1017,2023-08-12,2023-08,Saturday,Radiofrequência,Dra. Paula Mendes,Faltou,Particular,Vila Nova,384.59,5.0
+1018,2023-08-27,2023-08,Sunday,Drenagem Linfática,Esteta Carla,Faltou,Particular,Alto da Serra,151.31,4.0
+1019,2024-06-01,2024-06,Saturday,Hidratação Facial,Dra. Ana Lima,Faltou,Particular,Alto da Serra,180.78,5.0
+1020,2024-09-08,2024-09,Sunday,Drenagem Linfática,Dra. Ana Lima,Faltou,Particular,Centro,146.47,
+1021,2023-01-28,2023-01,Saturday,Botox,Esteta Carla,Realizado,Particular,Alto da Serra,1251.21,5.0
+1022,2024-07-28,2024-07,Sunday,Depilação a Laser,Dra. Paula Mendes,Realizado,Particular,Jardim,248.98,5.0
+1023,2023-07-23,2023-07,Sunday,Hidratação Facial,Esteta Carla,Realizado,Particular,Alto da Serra,211.26,5.0
+1024,2024-10-27,2024-10,Sunday,Hidratação Facial,Dra. Paula Mendes,Realizado,Particular,Campestre,193.76,5.0
+1025,2024-12-19,2024-12,Thursday,Peeling Químico,Esteta Carla,Realizado,Unimed,Vila Nova,303.94,5.0
+1026,2024-07-12,2024-07,Friday,Peeling Químico,Dra. Ana Lima,Realizado,Particular,Vila Nova,289.3,
+1027,2024-03-05,2024-03,Tuesday,Botox,Esteta Carla,Realizado,Particular,Centro,1144.9,5.0
+1028,2023-08-14,2023-08,Monday,Hidratação Facial,Dra. Paula Mendes,Realizado,Unimed,Jardim,181.04,
+1029,2024-04-04,2024-04,Thursday,Microagulhamento,Esteta Carla,Cancelado,Bradesco Saúde,Jardim,407.77,5.0
+1030,2024-08-26,2024-08,Monday,Drenagem Linfática,Esteta Renata,Realizado,Bradesco Saúde,Alto da Serra,135.88,5.0
+1031,2023-10-12,2023-10,Thursday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Unimed,Alto da Serra,1593.21,4.0
+1032,2023-01-07,2023-01,Saturday,Drenagem Linfática,Dra. Paula Mendes,Realizado,Unimed,Vila Nova,143.43,3.0
+1033,2023-06-13,2023-06,Tuesday,Microagulhamento,Esteta Carla,Faltou,Unimed,Alto da Serra,424.69,
+1034,2024-12-15,2024-12,Sunday,Botox,Dra. Ana Lima,Realizado,Bradesco Saúde,Vila Nova,1193.2,
+1035,2024-03-08,2024-03,Friday,Peeling Químico,Esteta Renata,Faltou,Particular,Jardim,291.45,4.0
+1036,2023-12-15,2023-12,Friday,Depilação a Laser,Esteta Renata,Cancelado,Particular,Centro,254.2,
+1037,2023-10-12,2023-10,Thursday,Drenagem Linfática,Dra. Paula Mendes,Realizado,Bradesco Saúde,Centro,141.98,5.0
+1038,2023-06-09,2023-06,Friday,Botox,Esteta Renata,Cancelado,Particular,Alto da Serra,1118.31,
+1039,2023-08-09,2023-08,Wednesday,Peeling Químico,Esteta Carla,Faltou,Particular,Vila Nova,284.87,5.0
+1040,2023-12-11,2023-12,Monday,Depilação a Laser,Dra. Paula Mendes,Realizado,Bradesco Saúde,Campestre,237.06,
+1041,2023-04-15,2023-04,Saturday,Radiofrequência,Dra. Paula Mendes,Realizado,Particular,Jardim,352.36,5.0
+1042,2023-04-05,2023-04,Wednesday,Preenchimento Labial,Esteta Renata,Realizado,Unimed,Jardim,1587.37,
+1043,2024-01-25,2024-01,Thursday,Botox,Esteta Renata,Faltou,Bradesco Saúde,Jardim,1256.89,
+1044,2023-04-10,2023-04,Monday,Radiofrequência,Dra. Ana Lima,Cancelado,Unimed,Centro,368.48,
+1045,2024-01-03,2024-01,Wednesday,Peeling Químico,Dra. Paula Mendes,Realizado,Bradesco Saúde,Jardim,326.87,
+1046,2023-12-19,2023-12,Tuesday,Preenchimento Labial,Dra. Paula Mendes,Cancelado,Bradesco Saúde,Vila Nova,1522.71,3.0
+1047,2024-09-10,2024-09,Tuesday,Depilação a Laser,Dra. Paula Mendes,Realizado,Unimed,Centro,274.13,4.0
+1048,2023-09-28,2023-09,Thursday,Drenagem Linfática,Esteta Carla,Realizado,Unimed,Alto da Serra,146.65,5.0
+1049,2023-02-14,2023-02,Tuesday,Microagulhamento,Dra. Ana Lima,Realizado,Particular,Campestre,434.82,5.0
+1050,2024-04-15,2024-04,Monday,Radiofrequência,Esteta Renata,Cancelado,Unimed,Campestre,384.41,
+1051,2024-07-03,2024-07,Wednesday,Hidratação Facial,Dra. Paula Mendes,Cancelado,Particular,Vila Nova,186.95,
+1052,2023-05-08,2023-05,Monday,Drenagem Linfática,Dra. Ana Lima,Realizado,Particular,Alto da Serra,142.1,5.0
+1053,2024-01-23,2024-01,Tuesday,Peeling Químico,Esteta Renata,Faltou,Particular,Jardim,289.08,3.0
+1054,2023-03-22,2023-03,Wednesday,Preenchimento Labial,Esteta Renata,Realizado,Bradesco Saúde,Jardim,1571.43,5.0
+1055,2024-07-19,2024-07,Friday,Peeling Químico,Esteta Renata,Realizado,Particular,Centro,291.53,3.0
+1056,2023-10-28,2023-10,Saturday,Peeling Químico,Esteta Renata,Cancelado,Bradesco Saúde,Jardim,305.49,4.0
+1057,2024-10-05,2024-10,Saturday,Limpeza de Pele,Esteta Carla,Realizado,Bradesco Saúde,Centro,187.32,3.0
+1058,2024-09-25,2024-09,Wednesday,Hidratação Facial,Esteta Renata,Cancelado,Particular,Jardim,194.07,4.0
+1059,2024-01-06,2024-01,Saturday,Preenchimento Labial,Esteta Renata,Realizado,Particular,Vila Nova,1520.3,
+1060,2024-08-14,2024-08,Wednesday,Preenchimento Labial,Esteta Renata,Realizado,Particular,Vila Nova,1392.63,
+1061,2023-07-16,2023-07,Sunday,Radiofrequência,Dra. Ana Lima,Realizado,Bradesco Saúde,Vila Nova,381.39,5.0
+1062,2024-12-22,2024-12,Sunday,Botox,Esteta Renata,Realizado,Particular,Vila Nova,1280.81,
+1063,2023-03-13,2023-03,Monday,Limpeza de Pele,Dra. Ana Lima,Realizado,Unimed,Vila Nova,191.17,
+1064,2023-02-16,2023-02,Thursday,Hidratação Facial,Dra. Ana Lima,Cancelado,Unimed,Campestre,218.82,
+1065,2024-11-08,2024-11,Friday,Peeling Químico,Dra. Paula Mendes,Realizado,Particular,Campestre,302.53,5.0
+1066,2023-08-22,2023-08,Tuesday,Drenagem Linfática,Esteta Renata,Realizado,Bradesco Saúde,Centro,140.27,
+1067,2023-10-24,2023-10,Tuesday,Microagulhamento,Esteta Renata,Faltou,Particular,Centro,363.04,5.0
+1068,2023-03-23,2023-03,Thursday,Radiofrequência,Esteta Carla,Realizado,Particular,Jardim,318.93,5.0
+1069,2023-08-27,2023-08,Sunday,Peeling Químico,Dra. Ana Lima,Cancelado,Particular,Centro,306.1,
+1070,2023-04-14,2023-04,Friday,Drenagem Linfática,Dra. Ana Lima,Realizado,Particular,Campestre,135.6,
+1071,2024-01-25,2024-01,Thursday,Depilação a Laser,Esteta Carla,Realizado,Particular,Alto da Serra,248.9,
+1072,2023-10-12,2023-10,Thursday,Depilação a Laser,Dra. Ana Lima,Faltou,Particular,Campestre,241.59,3.0
+1073,2024-04-09,2024-04,Tuesday,Botox,Esteta Renata,Realizado,Unimed,Campestre,1227.39,
+1074,2024-10-12,2024-10,Saturday,Drenagem Linfática,Dra. Ana Lima,Realizado,Particular,Vila Nova,159.19,3.0
+1075,2024-01-09,2024-01,Tuesday,Hidratação Facial,Dra. Paula Mendes,Realizado,Particular,Centro,193.63,5.0
+1076,2023-06-16,2023-06,Friday,Radiofrequência,Dra. Ana Lima,Cancelado,Particular,Jardim,327.42,
+1077,2024-01-15,2024-01,Monday,Radiofrequência,Esteta Renata,Realizado,Particular,Vila Nova,371.17,
+1078,2023-12-30,2023-12,Saturday,Radiofrequência,Dra. Paula Mendes,Realizado,Particular,Alto da Serra,375.78,5.0
+1079,2023-08-03,2023-08,Thursday,Botox,Dra. Paula Mendes,Realizado,Particular,Vila Nova,1094.29,5.0
+1080,2024-11-17,2024-11,Sunday,Radiofrequência,Dra. Ana Lima,Cancelado,Particular,Vila Nova,325.34,
+1081,2023-10-01,2023-10,Sunday,Drenagem Linfática,Esteta Renata,Realizado,Unimed,Alto da Serra,156.14,3.0
+1082,2024-12-19,2024-12,Thursday,Microagulhamento,Esteta Renata,Realizado,Particular,Vila Nova,371.33,
+1083,2024-11-30,2024-11,Saturday,Peeling Químico,Dra. Paula Mendes,Cancelado,Particular,Centro,276.66,
+1084,2024-10-25,2024-10,Friday,Hidratação Facial,Esteta Carla,Realizado,Bradesco Saúde,Vila Nova,201.05,5.0
+1085,2023-03-15,2023-03,Wednesday,Botox,Dra. Paula Mendes,Realizado,Bradesco Saúde,Alto da Serra,1167.57,
+1086,2024-09-15,2024-09,Sunday,Botox,Dra. Ana Lima,Realizado,Particular,Jardim,1097.41,5.0
+1087,2024-10-12,2024-10,Saturday,Microagulhamento,Esteta Renata,Cancelado,Particular,Centro,416.36,3.0
+1088,2023-06-25,2023-06,Sunday,Microagulhamento,Esteta Renata,Faltou,Particular,Jardim,412.97,5.0
+1089,2024-06-30,2024-06,Sunday,Peeling Químico,Esteta Renata,Cancelado,Particular,Jardim,305.16,4.0
+1090,2023-09-08,2023-09,Friday,Preenchimento Labial,Dra. Paula Mendes,Faltou,Unimed,Alto da Serra,1450.97,4.0
+1091,2023-06-17,2023-06,Saturday,Drenagem Linfática,Esteta Renata,Realizado,Unimed,Vila Nova,144.68,
+1092,2024-04-18,2024-04,Thursday,Depilação a Laser,Esteta Renata,Realizado,Bradesco Saúde,Alto da Serra,273.79,
+1093,2024-01-24,2024-01,Wednesday,Radiofrequência,Dra. Paula Mendes,Realizado,Particular,Vila Nova,366.26,4.0
+1094,2023-10-04,2023-10,Wednesday,Hidratação Facial,Dra. Ana Lima,Cancelado,Bradesco Saúde,Vila Nova,197.47,5.0
+1095,2024-10-17,2024-10,Thursday,Depilação a Laser,Esteta Renata,Faltou,Particular,Vila Nova,256.96,
+1096,2024-12-05,2024-12,Thursday,Hidratação Facial,Dra. Ana Lima,Realizado,Bradesco Saúde,Jardim,199.49,5.0
+1097,2024-07-24,2024-07,Wednesday,Microagulhamento,Esteta Carla,Realizado,Particular,Vila Nova,385.38,5.0
+1098,2023-08-13,2023-08,Sunday,Botox,Esteta Carla,Cancelado,Particular,Campestre,1249.72,
+1099,2024-12-02,2024-12,Monday,Radiofrequência,Dra. Paula Mendes,Faltou,Bradesco Saúde,Vila Nova,354.34,
+1100,2023-11-29,2023-11,Wednesday,Microagulhamento,Esteta Renata,Realizado,Bradesco Saúde,Alto da Serra,431.17,
+1101,2023-02-27,2023-02,Monday,Drenagem Linfática,Esteta Carla,Realizado,Particular,Alto da Serra,153.41,4.0
+1102,2023-08-23,2023-08,Wednesday,Radiofrequência,Dra. Ana Lima,Realizado,Bradesco Saúde,Vila Nova,339.98,
+1103,2023-02-02,2023-02,Thursday,Preenchimento Labial,Dra. Paula Mendes,Faltou,Particular,Jardim,1549.66,5.0
+1104,2023-11-20,2023-11,Monday,Drenagem Linfática,Dra. Paula Mendes,Realizado,Bradesco Saúde,Vila Nova,159.43,5.0
+1105,2024-02-15,2024-02,Thursday,Microagulhamento,Dra. Ana Lima,Realizado,Particular,Alto da Serra,390.27,3.0
+1106,2023-10-02,2023-10,Monday,Preenchimento Labial,Dra. Paula Mendes,Cancelado,Particular,Alto da Serra,1570.2,
+1107,2023-03-09,2023-03,Thursday,Depilação a Laser,Esteta Carla,Realizado,Bradesco Saúde,Jardim,239.73,
+1108,2023-08-05,2023-08,Saturday,Drenagem Linfática,Dra. Paula Mendes,Faltou,Bradesco Saúde,Campestre,140.33,
+1109,2024-08-03,2024-08,Saturday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Unimed,Centro,1350.54,
+1110,2023-11-19,2023-11,Sunday,Depilação a Laser,Esteta Carla,Cancelado,Bradesco Saúde,Jardim,260.1,
+1111,2023-08-06,2023-08,Sunday,Hidratação Facial,Dra. Paula Mendes,Realizado,Particular,Campestre,202.91,
+1112,2024-11-02,2024-11,Saturday,Limpeza de Pele,Esteta Carla,Cancelado,Unimed,Centro,192.63,
+1113,2024-05-26,2024-05,Sunday,Botox,Dra. Paula Mendes,Realizado,Particular,Campestre,1265.0,5.0
+1114,2024-02-10,2024-02,Saturday,Depilação a Laser,Esteta Carla,Realizado,Particular,Centro,253.37,3.0
+1115,2024-10-20,2024-10,Sunday,Botox,Esteta Renata,Realizado,Particular,Campestre,1123.7,
+1116,2024-04-14,2024-04,Sunday,Botox,Dra. Paula Mendes,Faltou,Particular,Jardim,1156.37,5.0
+1117,2023-05-27,2023-05,Saturday,Depilação a Laser,Esteta Carla,Realizado,Particular,Alto da Serra,265.44,5.0
+1118,2023-09-29,2023-09,Friday,Preenchimento Labial,Esteta Carla,Realizado,Particular,Alto da Serra,1533.41,
+1119,2023-05-23,2023-05,Tuesday,Microagulhamento,Esteta Carla,Cancelado,Bradesco Saúde,Campestre,411.17,4.0
+1120,2023-09-10,2023-09,Sunday,Limpeza de Pele,Dra. Paula Mendes,Realizado,Unimed,Alto da Serra,165.75,
+1121,2024-07-28,2024-07,Sunday,Radiofrequência,Esteta Carla,Cancelado,Particular,Vila Nova,349.73,5.0
+1122,2024-07-05,2024-07,Friday,Depilação a Laser,Esteta Carla,Realizado,Unimed,Alto da Serra,241.56,
+1123,2023-09-27,2023-09,Wednesday,Drenagem Linfática,Dra. Ana Lima,Realizado,Unimed,Alto da Serra,137.33,
+1124,2024-08-21,2024-08,Wednesday,Hidratação Facial,Dra. Ana Lima,Realizado,Bradesco Saúde,Campestre,193.87,5.0
+1125,2024-03-14,2024-03,Thursday,Limpeza de Pele,Dra. Ana Lima,Realizado,Bradesco Saúde,Campestre,173.5,
+1126,2024-08-20,2024-08,Tuesday,Radiofrequência,Esteta Renata,Faltou,Particular,Vila Nova,359.53,
+1127,2024-02-13,2024-02,Tuesday,Peeling Químico,Dra. Ana Lima,Realizado,Particular,Vila Nova,327.78,5.0
+1128,2024-01-06,2024-01,Saturday,Microagulhamento,Dra. Ana Lima,Realizado,Particular,Vila Nova,425.73,
+1129,2023-08-13,2023-08,Sunday,Hidratação Facial,Esteta Carla,Realizado,Particular,Centro,206.8,
+1130,2023-05-22,2023-05,Monday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Unimed,Campestre,1568.79,4.0
+1131,2024-06-05,2024-06,Wednesday,Depilação a Laser,Dra. Paula Mendes,Realizado,Bradesco Saúde,Jardim,241.79,
+1132,2024-05-20,2024-05,Monday,Hidratação Facial,Esteta Renata,Realizado,Particular,Vila Nova,180.46,4.0
+1133,2023-04-04,2023-04,Tuesday,Radiofrequência,Esteta Carla,Cancelado,Particular,Campestre,329.68,
+1134,2023-02-18,2023-02,Saturday,Microagulhamento,Esteta Carla,Realizado,Particular,Vila Nova,415.45,
+1135,2023-04-23,2023-04,Sunday,Drenagem Linfática,Esteta Carla,Realizado,Particular,Campestre,145.51,5.0
+1136,2023-06-06,2023-06,Tuesday,Radiofrequência,Esteta Carla,Realizado,Unimed,Campestre,370.09,
+1137,2024-10-04,2024-10,Friday,Hidratação Facial,Esteta Renata,Cancelado,Unimed,Centro,208.82,
+1138,2023-06-13,2023-06,Tuesday,Microagulhamento,Esteta Carla,Faltou,Particular,Alto da Serra,363.85,
+1139,2024-11-27,2024-11,Wednesday,Preenchimento Labial,Esteta Renata,Cancelado,Bradesco Saúde,Vila Nova,1481.47,5.0
+1140,2024-03-08,2024-03,Friday,Microagulhamento,Esteta Carla,Realizado,Particular,Centro,393.57,
+1141,2024-09-02,2024-09,Monday,Depilação a Laser,Esteta Renata,Cancelado,Bradesco Saúde,Jardim,233.32,3.0
+1142,2023-03-07,2023-03,Tuesday,Drenagem Linfática,Dra. Paula Mendes,Cancelado,Particular,Alto da Serra,147.42,4.0
+1143,2024-01-30,2024-01,Tuesday,Radiofrequência,Esteta Carla,Realizado,Particular,Alto da Serra,376.72,5.0
+1144,2024-01-26,2024-01,Friday,Drenagem Linfática,Dra. Ana Lima,Cancelado,Unimed,Centro,145.54,4.0
+1145,2024-09-02,2024-09,Monday,Radiofrequência,Dra. Paula Mendes,Realizado,Bradesco Saúde,Centro,341.27,
+1146,2024-04-24,2024-04,Wednesday,Hidratação Facial,Dra. Ana Lima,Realizado,Particular,Jardim,213.15,4.0
+1147,2024-06-25,2024-06,Tuesday,Hidratação Facial,Dra. Paula Mendes,Cancelado,Bradesco Saúde,Jardim,211.55,5.0
+1148,2023-09-15,2023-09,Friday,Microagulhamento,Esteta Renata,Realizado,Bradesco Saúde,Campestre,406.24,4.0
+1149,2024-07-20,2024-07,Saturday,Hidratação Facial,Dra. Paula Mendes,Realizado,Particular,Jardim,210.33,5.0
+1150,2023-01-12,2023-01,Thursday,Peeling Químico,Esteta Renata,Faltou,Particular,Centro,283.53,5.0
+1151,2024-11-27,2024-11,Wednesday,Peeling Químico,Esteta Carla,Cancelado,Particular,Alto da Serra,297.08,3.0
+1152,2023-04-28,2023-04,Friday,Limpeza de Pele,Dra. Ana Lima,Realizado,Particular,Alto da Serra,190.77,
+1153,2024-11-29,2024-11,Friday,Depilação a Laser,Dra. Paula Mendes,Realizado,Particular,Jardim,226.67,5.0
+1154,2024-07-03,2024-07,Wednesday,Radiofrequência,Esteta Renata,Realizado,Unimed,Centro,316.41,4.0
+1155,2023-10-01,2023-10,Sunday,Botox,Esteta Renata,Cancelado,Particular,Alto da Serra,1142.67,4.0
+1156,2024-10-18,2024-10,Friday,Preenchimento Labial,Esteta Renata,Realizado,Unimed,Alto da Serra,1381.42,5.0
+1157,2023-12-15,2023-12,Friday,Preenchimento Labial,Dra. Ana Lima,Faltou,Particular,Vila Nova,1452.54,4.0
+1158,2023-04-25,2023-04,Tuesday,Microagulhamento,Dra. Ana Lima,Realizado,Particular,Alto da Serra,431.03,3.0
+1159,2023-10-28,2023-10,Saturday,Depilação a Laser,Esteta Carla,Realizado,Particular,Alto da Serra,233.05,
+1160,2024-03-21,2024-03,Thursday,Radiofrequência,Esteta Renata,Realizado,Unimed,Campestre,320.25,
+1161,2023-06-11,2023-06,Sunday,Preenchimento Labial,Dra. Ana Lima,Realizado,Particular,Vila Nova,1632.55,3.0
+1162,2024-04-09,2024-04,Tuesday,Hidratação Facial,Dra. Paula Mendes,Realizado,Particular,Vila Nova,219.12,5.0
+1163,2023-01-04,2023-01,Wednesday,Depilação a Laser,Esteta Renata,Realizado,Unimed,Vila Nova,241.9,5.0
+1164,2023-09-27,2023-09,Wednesday,Radiofrequência,Esteta Renata,Realizado,Particular,Campestre,383.97,5.0
+1165,2024-05-27,2024-05,Monday,Microagulhamento,Dra. Ana Lima,Realizado,Particular,Campestre,431.46,
+1166,2023-07-02,2023-07,Sunday,Drenagem Linfática,Esteta Renata,Realizado,Particular,Centro,156.14,
+1167,2024-06-03,2024-06,Monday,Limpeza de Pele,Esteta Carla,Realizado,Particular,Campestre,177.53,
+1168,2023-04-19,2023-04,Wednesday,Hidratação Facial,Esteta Carla,Faltou,Particular,Alto da Serra,206.15,
+1169,2024-10-02,2024-10,Wednesday,Preenchimento Labial,Esteta Renata,Realizado,Particular,Alto da Serra,1532.2,
+1170,2023-11-02,2023-11,Thursday,Limpeza de Pele,Dra. Ana Lima,Realizado,Bradesco Saúde,Campestre,177.63,4.0
+1171,2024-10-16,2024-10,Wednesday,Hidratação Facial,Esteta Renata,Realizado,Particular,Alto da Serra,182.14,
+1172,2024-06-03,2024-06,Monday,Limpeza de Pele,Esteta Renata,Faltou,Particular,Jardim,173.92,4.0
+1173,2024-09-15,2024-09,Sunday,Limpeza de Pele,Esteta Carla,Realizado,Particular,Campestre,197.08,3.0
+1174,2023-07-23,2023-07,Sunday,Preenchimento Labial,Dra. Paula Mendes,Cancelado,Particular,Campestre,1472.78,
+1175,2023-06-06,2023-06,Tuesday,Radiofrequência,Esteta Renata,Cancelado,Particular,Vila Nova,353.79,
+1176,2024-01-18,2024-01,Thursday,Peeling Químico,Esteta Renata,Realizado,Particular,Jardim,325.53,
+1177,2023-06-15,2023-06,Thursday,Preenchimento Labial,Esteta Carla,Cancelado,Particular,Jardim,1512.04,5.0
+1178,2024-07-06,2024-07,Saturday,Microagulhamento,Esteta Renata,Cancelado,Particular,Vila Nova,412.85,
+1179,2024-06-27,2024-06,Thursday,Botox,Dra. Ana Lima,Faltou,Particular,Centro,1151.38,4.0
+1180,2023-01-01,2023-01,Sunday,Hidratação Facial,Esteta Renata,Realizado,Particular,Campestre,183.84,
+1181,2024-09-05,2024-09,Thursday,Microagulhamento,Dra. Ana Lima,Realizado,Particular,Alto da Serra,391.43,5.0
+1182,2023-11-28,2023-11,Tuesday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Particular,Campestre,1514.9,5.0
+1183,2024-05-15,2024-05,Wednesday,Depilação a Laser,Esteta Renata,Realizado,Particular,Alto da Serra,249.55,4.0
+1184,2023-01-20,2023-01,Friday,Peeling Químico,Esteta Carla,Cancelado,Bradesco Saúde,Centro,273.27,
+1185,2023-04-25,2023-04,Tuesday,Hidratação Facial,Dra. Ana Lima,Faltou,Particular,Alto da Serra,180.15,4.0
+1186,2024-01-07,2024-01,Sunday,Drenagem Linfática,Dra. Paula Mendes,Faltou,Particular,Campestre,137.63,3.0
+1187,2023-11-11,2023-11,Saturday,Radiofrequência,Dra. Ana Lima,Faltou,Unimed,Centro,372.67,
+1188,2023-09-03,2023-09,Sunday,Botox,Dra. Paula Mendes,Faltou,Particular,Campestre,1230.02,
+1189,2023-03-01,2023-03,Wednesday,Preenchimento Labial,Dra. Ana Lima,Cancelado,Particular,Centro,1494.1,5.0
+1190,2023-09-04,2023-09,Monday,Peeling Químico,Dra. Ana Lima,Cancelado,Bradesco Saúde,Vila Nova,275.82,3.0
+1191,2024-08-03,2024-08,Saturday,Hidratação Facial,Dra. Paula Mendes,Realizado,Particular,Campestre,188.28,5.0
+1192,2023-03-22,2023-03,Wednesday,Peeling Químico,Dra. Paula Mendes,Realizado,Unimed,Vila Nova,308.29,
+1193,2023-03-29,2023-03,Wednesday,Hidratação Facial,Esteta Carla,Realizado,Particular,Campestre,219.08,5.0
+1194,2024-05-12,2024-05,Sunday,Depilação a Laser,Dra. Paula Mendes,Realizado,Particular,Campestre,248.68,
+1195,2023-03-12,2023-03,Sunday,Hidratação Facial,Dra. Ana Lima,Cancelado,Bradesco Saúde,Campestre,184.62,
+1196,2024-06-29,2024-06,Saturday,Botox,Esteta Carla,Cancelado,Particular,Jardim,1268.37,3.0
+1197,2023-05-09,2023-05,Tuesday,Peeling Químico,Esteta Carla,Realizado,Bradesco Saúde,Campestre,298.26,3.0
+1198,2023-05-12,2023-05,Friday,Radiofrequência,Esteta Renata,Realizado,Particular,Campestre,377.64,5.0
+1199,2024-11-06,2024-11,Wednesday,Preenchimento Labial,Esteta Carla,Realizado,Particular,Centro,1429.5,5.0
+1200,2024-05-01,2024-05,Wednesday,Drenagem Linfática,Dra. Paula Mendes,Faltou,Unimed,Jardim,154.26,
+1201,2024-07-16,2024-07,Tuesday,Preenchimento Labial,Esteta Carla,Cancelado,Unimed,Centro,1466.26,4.0
+1202,2023-06-19,2023-06,Monday,Drenagem Linfática,Dra. Ana Lima,Realizado,Unimed,Alto da Serra,146.13,
+1203,2023-09-29,2023-09,Friday,Radiofrequência,Esteta Renata,Realizado,Bradesco Saúde,Alto da Serra,341.7,5.0
+1204,2024-06-24,2024-06,Monday,Radiofrequência,Esteta Renata,Realizado,Unimed,Centro,328.06,5.0
+1205,2024-09-13,2024-09,Friday,Peeling Químico,Dra. Paula Mendes,Realizado,Unimed,Alto da Serra,272.68,
+1206,2024-03-09,2024-03,Saturday,Limpeza de Pele,Dra. Ana Lima,Realizado,Particular,Alto da Serra,177.83,5.0
+1207,2023-08-05,2023-08,Saturday,Microagulhamento,Esteta Carla,Faltou,Particular,Alto da Serra,381.07,
+1208,2024-07-06,2024-07,Saturday,Peeling Químico,Dra. Paula Mendes,Realizado,Particular,Vila Nova,320.22,
+1209,2024-12-07,2024-12,Saturday,Limpeza de Pele,Esteta Renata,Faltou,Particular,Centro,182.31,5.0
+1210,2023-07-25,2023-07,Tuesday,Peeling Químico,Dra. Paula Mendes,Realizado,Particular,Centro,279.07,
+1211,2024-12-31,2024-12,Tuesday,Limpeza de Pele,Dra. Ana Lima,Realizado,Unimed,Jardim,187.07,5.0
+1212,2023-11-16,2023-11,Thursday,Depilação a Laser,Dra. Ana Lima,Cancelado,Particular,Centro,229.84,5.0
+1213,2024-02-13,2024-02,Tuesday,Microagulhamento,Esteta Carla,Realizado,Particular,Vila Nova,413.45,4.0
+1214,2024-11-18,2024-11,Monday,Depilação a Laser,Esteta Carla,Realizado,Bradesco Saúde,Vila Nova,265.41,
+1215,2024-10-27,2024-10,Sunday,Depilação a Laser,Esteta Carla,Realizado,Particular,Vila Nova,245.7,5.0
+1216,2024-01-18,2024-01,Thursday,Hidratação Facial,Dra. Paula Mendes,Realizado,Bradesco Saúde,Centro,210.26,
+1217,2024-03-24,2024-03,Sunday,Microagulhamento,Esteta Carla,Realizado,Unimed,Jardim,378.2,4.0
+1218,2024-06-13,2024-06,Thursday,Botox,Dra. Paula Mendes,Realizado,Unimed,Centro,1094.64,4.0
+1219,2024-04-07,2024-04,Sunday,Botox,Esteta Carla,Realizado,Particular,Campestre,1172.91,4.0
+1220,2023-05-04,2023-05,Thursday,Microagulhamento,Dra. Paula Mendes,Realizado,Particular,Alto da Serra,401.81,
+1221,2023-09-11,2023-09,Monday,Peeling Químico,Esteta Renata,Realizado,Particular,Vila Nova,327.94,
+1222,2023-08-19,2023-08,Saturday,Peeling Químico,Dra. Ana Lima,Realizado,Particular,Jardim,311.22,
+1223,2023-03-07,2023-03,Tuesday,Hidratação Facial,Esteta Carla,Faltou,Bradesco Saúde,Centro,217.45,
+1224,2023-12-13,2023-12,Wednesday,Drenagem Linfática,Esteta Renata,Realizado,Unimed,Campestre,152.18,4.0
+1225,2023-01-22,2023-01,Sunday,Microagulhamento,Esteta Carla,Realizado,Particular,Centro,378.85,
+1226,2024-08-25,2024-08,Sunday,Radiofrequência,Esteta Renata,Cancelado,Particular,Jardim,335.92,3.0
+1227,2024-07-21,2024-07,Sunday,Peeling Químico,Dra. Paula Mendes,Realizado,Particular,Jardim,293.69,
+1228,2023-08-24,2023-08,Thursday,Preenchimento Labial,Esteta Renata,Realizado,Unimed,Jardim,1606.18,
+1229,2024-08-25,2024-08,Sunday,Preenchimento Labial,Dra. Paula Mendes,Faltou,Particular,Campestre,1360.42,5.0
+1230,2023-08-14,2023-08,Monday,Hidratação Facial,Esteta Renata,Faltou,Particular,Campestre,202.85,
+1231,2023-01-08,2023-01,Sunday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Particular,Alto da Serra,1505.05,5.0
+1232,2023-03-14,2023-03,Tuesday,Microagulhamento,Esteta Carla,Realizado,Particular,Alto da Serra,405.72,
+1233,2024-12-25,2024-12,Wednesday,Drenagem Linfática,Dra. Paula Mendes,Realizado,Particular,Centro,164.48,
+1234,2024-10-08,2024-10,Tuesday,Peeling Químico,Dra. Paula Mendes,Faltou,Particular,Vila Nova,278.85,5.0
+1235,2023-03-02,2023-03,Thursday,Drenagem Linfática,Dra. Paula Mendes,Realizado,Bradesco Saúde,Alto da Serra,163.48,5.0
+1236,2023-08-23,2023-08,Wednesday,Depilação a Laser,Esteta Renata,Faltou,Particular,Centro,247.45,4.0
+1237,2023-03-11,2023-03,Saturday,Microagulhamento,Esteta Carla,Realizado,Unimed,Jardim,435.92,5.0
+1238,2023-02-02,2023-02,Thursday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Particular,Jardim,1400.15,
+1239,2023-12-05,2023-12,Tuesday,Microagulhamento,Dra. Ana Lima,Realizado,Unimed,Alto da Serra,376.95,5.0
+1240,2023-03-14,2023-03,Tuesday,Depilação a Laser,Dra. Ana Lima,Realizado,Unimed,Campestre,234.64,
+1241,2024-06-10,2024-06,Monday,Preenchimento Labial,Dra. Paula Mendes,Faltou,Particular,Alto da Serra,1362.8,
+1242,2023-09-01,2023-09,Friday,Preenchimento Labial,Esteta Carla,Realizado,Unimed,Vila Nova,1373.51,5.0
+1243,2023-10-13,2023-10,Friday,Peeling Químico,Dra. Paula Mendes,Cancelado,Particular,Jardim,310.99,
+1244,2024-11-16,2024-11,Saturday,Radiofrequência,Dra. Ana Lima,Cancelado,Particular,Campestre,329.13,3.0
+1245,2024-05-12,2024-05,Sunday,Peeling Químico,Dra. Ana Lima,Realizado,Particular,Centro,319.35,4.0
+1246,2023-08-08,2023-08,Tuesday,Microagulhamento,Esteta Renata,Cancelado,Particular,Centro,371.83,
+1247,2024-07-06,2024-07,Saturday,Botox,Esteta Carla,Realizado,Bradesco Saúde,Alto da Serra,1222.81,3.0
+1248,2023-05-16,2023-05,Tuesday,Preenchimento Labial,Esteta Carla,Realizado,Bradesco Saúde,Jardim,1445.92,3.0
+1249,2024-08-07,2024-08,Wednesday,Depilação a Laser,Dra. Paula Mendes,Realizado,Bradesco Saúde,Vila Nova,261.36,5.0
+1250,2024-08-13,2024-08,Tuesday,Microagulhamento,Esteta Renata,Cancelado,Particular,Alto da Serra,424.59,
+1251,2024-04-29,2024-04,Monday,Preenchimento Labial,Esteta Renata,Faltou,Bradesco Saúde,Jardim,1376.11,
+1252,2023-09-06,2023-09,Wednesday,Microagulhamento,Dra. Paula Mendes,Realizado,Particular,Alto da Serra,404.51,
+1253,2024-04-29,2024-04,Monday,Drenagem Linfática,Esteta Renata,Faltou,Bradesco Saúde,Jardim,151.56,5.0
+1254,2024-02-21,2024-02,Wednesday,Microagulhamento,Dra. Ana Lima,Realizado,Particular,Alto da Serra,428.53,
+1255,2023-07-14,2023-07,Friday,Limpeza de Pele,Dra. Paula Mendes,Faltou,Particular,Alto da Serra,180.71,
+1256,2023-04-07,2023-04,Friday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Particular,Jardim,1625.15,5.0
+1257,2023-04-10,2023-04,Monday,Depilação a Laser,Dra. Ana Lima,Faltou,Unimed,Campestre,225.62,5.0
+1258,2024-11-05,2024-11,Tuesday,Preenchimento Labial,Esteta Carla,Cancelado,Particular,Centro,1560.12,
+1259,2024-03-17,2024-03,Sunday,Peeling Químico,Dra. Ana Lima,Realizado,Particular,Campestre,305.25,
+1260,2023-12-29,2023-12,Friday,Depilação a Laser,Dra. Paula Mendes,Realizado,Particular,Campestre,264.08,
+1261,2024-03-09,2024-03,Saturday,Microagulhamento,Esteta Renata,Realizado,Particular,Jardim,369.0,5.0
+1262,2024-02-25,2024-02,Sunday,Depilação a Laser,Dra. Paula Mendes,Cancelado,Particular,Alto da Serra,232.48,4.0
+1263,2024-04-23,2024-04,Tuesday,Hidratação Facial,Esteta Carla,Realizado,Unimed,Centro,202.66,
+1264,2023-02-25,2023-02,Saturday,Microagulhamento,Dra. Ana Lima,Faltou,Bradesco Saúde,Jardim,406.61,
+1265,2024-11-20,2024-11,Wednesday,Depilação a Laser,Dra. Paula Mendes,Realizado,Bradesco Saúde,Alto da Serra,273.24,
+1266,2024-10-31,2024-10,Thursday,Microagulhamento,Dra. Ana Lima,Cancelado,Unimed,Alto da Serra,368.02,
+1267,2024-10-23,2024-10,Wednesday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Particular,Alto da Serra,1381.69,5.0
+1268,2023-04-11,2023-04,Tuesday,Preenchimento Labial,Esteta Carla,Realizado,Particular,Jardim,1583.86,
+1269,2023-03-04,2023-03,Saturday,Drenagem Linfática,Esteta Renata,Faltou,Particular,Jardim,158.57,5.0
+1270,2024-02-17,2024-02,Saturday,Preenchimento Labial,Esteta Carla,Realizado,Particular,Jardim,1610.24,5.0
+1271,2023-12-14,2023-12,Thursday,Drenagem Linfática,Esteta Carla,Realizado,Unimed,Alto da Serra,161.4,5.0
+1272,2023-04-22,2023-04,Saturday,Hidratação Facial,Esteta Carla,Cancelado,Particular,Centro,215.12,5.0
+1273,2023-09-12,2023-09,Tuesday,Drenagem Linfática,Esteta Carla,Realizado,Particular,Campestre,142.92,3.0
+1274,2023-07-16,2023-07,Sunday,Botox,Esteta Carla,Realizado,Particular,Centro,1237.15,5.0
+1275,2023-07-14,2023-07,Friday,Drenagem Linfática,Esteta Carla,Realizado,Unimed,Jardim,152.16,5.0
+1276,2024-07-03,2024-07,Wednesday,Preenchimento Labial,Dra. Ana Lima,Realizado,Particular,Jardim,1491.91,
+1277,2024-04-04,2024-04,Thursday,Peeling Químico,Dra. Paula Mendes,Realizado,Bradesco Saúde,Jardim,280.33,
+1278,2023-05-24,2023-05,Wednesday,Drenagem Linfática,Esteta Renata,Faltou,Particular,Campestre,147.09,
+1279,2024-03-08,2024-03,Friday,Peeling Químico,Esteta Renata,Realizado,Bradesco Saúde,Vila Nova,307.09,5.0
+1280,2023-07-07,2023-07,Friday,Hidratação Facial,Dra. Paula Mendes,Faltou,Particular,Vila Nova,207.23,3.0
+1281,2023-10-13,2023-10,Friday,Radiofrequência,Dra. Ana Lima,Realizado,Particular,Centro,343.12,
+1282,2024-04-18,2024-04,Thursday,Preenchimento Labial,Dra. Ana Lima,Realizado,Unimed,Vila Nova,1468.74,5.0
+1283,2023-09-13,2023-09,Wednesday,Depilação a Laser,Esteta Carla,Cancelado,Particular,Campestre,268.95,5.0
+1284,2023-03-19,2023-03,Sunday,Preenchimento Labial,Dra. Ana Lima,Realizado,Particular,Centro,1557.15,4.0
+1285,2024-03-29,2024-03,Friday,Drenagem Linfática,Esteta Carla,Realizado,Unimed,Vila Nova,136.48,4.0
+1286,2024-07-17,2024-07,Wednesday,Botox,Esteta Renata,Realizado,Particular,Centro,1194.05,
+1287,2023-04-11,2023-04,Tuesday,Limpeza de Pele,Dra. Ana Lima,Realizado,Bradesco Saúde,Jardim,171.67,
+1288,2023-02-21,2023-02,Tuesday,Limpeza de Pele,Esteta Carla,Realizado,Particular,Campestre,175.41,5.0
+1289,2024-10-29,2024-10,Tuesday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Particular,Campestre,1451.36,5.0
+1290,2024-07-07,2024-07,Sunday,Hidratação Facial,Dra. Paula Mendes,Realizado,Unimed,Jardim,211.75,
+1291,2023-01-16,2023-01,Monday,Peeling Químico,Dra. Ana Lima,Faltou,Particular,Jardim,288.66,4.0
+1292,2023-04-06,2023-04,Thursday,Drenagem Linfática,Dra. Paula Mendes,Faltou,Bradesco Saúde,Alto da Serra,160.29,5.0
+1293,2023-08-31,2023-08,Thursday,Limpeza de Pele,Dra. Paula Mendes,Realizado,Particular,Alto da Serra,192.9,
+1294,2023-06-20,2023-06,Tuesday,Limpeza de Pele,Esteta Renata,Faltou,Bradesco Saúde,Vila Nova,186.65,
+1295,2024-02-21,2024-02,Wednesday,Preenchimento Labial,Esteta Carla,Faltou,Unimed,Vila Nova,1641.75,
+1296,2024-05-12,2024-05,Sunday,Microagulhamento,Esteta Renata,Faltou,Particular,Alto da Serra,378.24,4.0
+1297,2024-05-07,2024-05,Tuesday,Depilação a Laser,Dra. Ana Lima,Faltou,Particular,Vila Nova,240.02,5.0
+1298,2023-08-07,2023-08,Monday,Hidratação Facial,Esteta Renata,Cancelado,Particular,Centro,209.75,4.0
+1299,2024-02-15,2024-02,Thursday,Preenchimento Labial,Dra. Ana Lima,Realizado,Particular,Centro,1582.21,
+1300,2023-03-02,2023-03,Thursday,Radiofrequência,Dra. Ana Lima,Realizado,Unimed,Centro,337.46,
+1301,2023-06-18,2023-06,Sunday,Botox,Dra. Paula Mendes,Faltou,Unimed,Campestre,1254.91,
+1302,2024-01-24,2024-01,Wednesday,Limpeza de Pele,Dra. Paula Mendes,Realizado,Particular,Campestre,183.78,5.0
+1303,2023-01-03,2023-01,Tuesday,Microagulhamento,Esteta Carla,Faltou,Bradesco Saúde,Centro,367.14,
+1304,2024-02-04,2024-02,Sunday,Peeling Químico,Dra. Paula Mendes,Realizado,Unimed,Jardim,296.5,5.0
+1305,2023-09-29,2023-09,Friday,Drenagem Linfática,Dra. Ana Lima,Realizado,Particular,Vila Nova,162.4,
+1306,2024-04-10,2024-04,Wednesday,Botox,Esteta Carla,Realizado,Bradesco Saúde,Alto da Serra,1177.72,
+1307,2023-10-20,2023-10,Friday,Radiofrequência,Dra. Paula Mendes,Realizado,Bradesco Saúde,Alto da Serra,348.91,5.0
+1308,2024-03-09,2024-03,Saturday,Hidratação Facial,Dra. Ana Lima,Realizado,Bradesco Saúde,Alto da Serra,200.66,5.0
+1309,2024-12-14,2024-12,Saturday,Limpeza de Pele,Esteta Carla,Realizado,Bradesco Saúde,Jardim,175.46,
+1310,2024-07-23,2024-07,Tuesday,Preenchimento Labial,Esteta Carla,Realizado,Particular,Vila Nova,1366.86,
+1311,2024-11-08,2024-11,Friday,Peeling Químico,Esteta Carla,Realizado,Bradesco Saúde,Campestre,317.49,4.0
+1312,2024-05-13,2024-05,Monday,Depilação a Laser,Dra. Paula Mendes,Realizado,Unimed,Jardim,228.28,4.0
+1313,2023-06-08,2023-06,Thursday,Peeling Químico,Dra. Ana Lima,Faltou,Particular,Jardim,312.57,
+1314,2023-07-14,2023-07,Friday,Peeling Químico,Esteta Renata,Cancelado,Particular,Campestre,294.2,5.0
+1315,2023-10-31,2023-10,Tuesday,Drenagem Linfática,Dra. Ana Lima,Realizado,Bradesco Saúde,Centro,158.42,
+1316,2023-08-11,2023-08,Friday,Depilação a Laser,Dra. Ana Lima,Realizado,Unimed,Alto da Serra,251.21,5.0
+1317,2023-03-01,2023-03,Wednesday,Hidratação Facial,Esteta Renata,Realizado,Particular,Centro,202.75,3.0
+1318,2024-08-16,2024-08,Friday,Preenchimento Labial,Esteta Renata,Realizado,Particular,Alto da Serra,1402.12,
+1319,2024-07-09,2024-07,Tuesday,Peeling Químico,Esteta Renata,Realizado,Unimed,Alto da Serra,322.51,5.0
+1320,2023-03-04,2023-03,Saturday,Depilação a Laser,Dra. Paula Mendes,Realizado,Particular,Centro,235.04,
+1321,2023-11-18,2023-11,Saturday,Peeling Químico,Dra. Ana Lima,Realizado,Bradesco Saúde,Centro,273.46,
+1322,2023-02-28,2023-02,Tuesday,Limpeza de Pele,Dra. Paula Mendes,Realizado,Particular,Centro,163.19,5.0
+1323,2023-02-21,2023-02,Tuesday,Hidratação Facial,Dra. Paula Mendes,Realizado,Particular,Centro,182.02,4.0
+1324,2024-08-21,2024-08,Wednesday,Limpeza de Pele,Dra. Ana Lima,Realizado,Particular,Vila Nova,174.97,3.0
+1325,2024-05-03,2024-05,Friday,Drenagem Linfática,Esteta Carla,Realizado,Bradesco Saúde,Jardim,140.97,5.0
+1326,2024-05-29,2024-05,Wednesday,Peeling Químico,Dra. Ana Lima,Realizado,Bradesco Saúde,Vila Nova,292.1,3.0
+1327,2024-06-27,2024-06,Thursday,Preenchimento Labial,Esteta Carla,Realizado,Bradesco Saúde,Campestre,1489.27,
+1328,2023-06-11,2023-06,Sunday,Limpeza de Pele,Esteta Carla,Realizado,Particular,Jardim,176.29,5.0
+1329,2023-02-28,2023-02,Tuesday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Particular,Jardim,1626.92,5.0
+1330,2024-06-04,2024-06,Tuesday,Microagulhamento,Dra. Paula Mendes,Faltou,Particular,Alto da Serra,414.49,
+1331,2023-03-24,2023-03,Friday,Botox,Esteta Carla,Cancelado,Bradesco Saúde,Campestre,1138.07,4.0
+1332,2023-07-10,2023-07,Monday,Depilação a Laser,Dra. Paula Mendes,Cancelado,Unimed,Alto da Serra,249.44,
+1333,2023-03-12,2023-03,Sunday,Drenagem Linfática,Dra. Paula Mendes,Realizado,Particular,Centro,148.38,4.0
+1334,2024-09-01,2024-09,Sunday,Microagulhamento,Dra. Ana Lima,Realizado,Particular,Campestre,436.84,
+1335,2023-03-11,2023-03,Saturday,Limpeza de Pele,Dra. Paula Mendes,Realizado,Unimed,Jardim,179.08,
+1336,2024-11-22,2024-11,Friday,Preenchimento Labial,Dra. Paula Mendes,Faltou,Unimed,Vila Nova,1515.4,
+1337,2023-08-29,2023-08,Tuesday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Unimed,Vila Nova,1453.27,5.0
+1338,2024-02-18,2024-02,Sunday,Radiofrequência,Esteta Carla,Realizado,Particular,Jardim,373.64,
+1339,2023-05-03,2023-05,Wednesday,Limpeza de Pele,Dra. Paula Mendes,Realizado,Unimed,Campestre,171.31,4.0
+1340,2024-08-06,2024-08,Tuesday,Preenchimento Labial,Dra. Paula Mendes,Cancelado,Particular,Alto da Serra,1599.26,3.0
+1341,2023-09-10,2023-09,Sunday,Preenchimento Labial,Esteta Renata,Realizado,Particular,Vila Nova,1377.12,
+1342,2024-08-15,2024-08,Thursday,Radiofrequência,Dra. Ana Lima,Realizado,Particular,Vila Nova,316.92,4.0
+1343,2024-08-31,2024-08,Saturday,Peeling Químico,Esteta Renata,Realizado,Particular,Centro,272.98,
+1344,2023-02-10,2023-02,Friday,Radiofrequência,Dra. Paula Mendes,Cancelado,Unimed,Campestre,374.77,5.0
+1345,2024-09-26,2024-09,Thursday,Botox,Esteta Carla,Faltou,Unimed,Centro,1267.16,
+1346,2023-03-25,2023-03,Saturday,Botox,Dra. Paula Mendes,Realizado,Particular,Centro,1131.44,4.0
+1347,2024-03-05,2024-03,Tuesday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Bradesco Saúde,Alto da Serra,1416.41,5.0
+1348,2024-11-04,2024-11,Monday,Botox,Dra. Ana Lima,Faltou,Particular,Campestre,1134.03,5.0
+1349,2024-08-20,2024-08,Tuesday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Unimed,Alto da Serra,1412.02,5.0
+1350,2024-08-01,2024-08,Thursday,Botox,Dra. Paula Mendes,Faltou,Unimed,Centro,1236.38,
+1351,2024-06-19,2024-06,Wednesday,Limpeza de Pele,Dra. Ana Lima,Realizado,Particular,Alto da Serra,180.48,
+1352,2023-11-20,2023-11,Monday,Radiofrequência,Esteta Renata,Realizado,Particular,Centro,375.52,5.0
+1353,2023-09-25,2023-09,Monday,Peeling Químico,Esteta Carla,Cancelado,Particular,Campestre,328.03,4.0
+1354,2023-07-29,2023-07,Saturday,Radiofrequência,Dra. Ana Lima,Faltou,Particular,Centro,362.75,
+1355,2024-11-16,2024-11,Saturday,Hidratação Facial,Esteta Renata,Realizado,Particular,Centro,198.96,
+1356,2023-11-18,2023-11,Saturday,Depilação a Laser,Dra. Ana Lima,Realizado,Particular,Jardim,231.62,4.0
+1357,2023-09-02,2023-09,Saturday,Microagulhamento,Esteta Carla,Realizado,Particular,Campestre,373.86,5.0
+1358,2023-09-29,2023-09,Friday,Preenchimento Labial,Esteta Carla,Realizado,Unimed,Centro,1590.26,
+1359,2024-02-10,2024-02,Saturday,Depilação a Laser,Dra. Ana Lima,Realizado,Particular,Campestre,236.19,
+1360,2023-05-15,2023-05,Monday,Preenchimento Labial,Esteta Renata,Realizado,Particular,Centro,1532.5,5.0
+1361,2024-11-18,2024-11,Monday,Microagulhamento,Dra. Paula Mendes,Realizado,Particular,Campestre,435.44,4.0
+1362,2024-10-22,2024-10,Tuesday,Depilação a Laser,Esteta Renata,Realizado,Particular,Alto da Serra,260.64,5.0
+1363,2023-11-04,2023-11,Saturday,Peeling Químico,Esteta Carla,Realizado,Particular,Alto da Serra,312.56,
+1364,2024-04-13,2024-04,Saturday,Hidratação Facial,Dra. Ana Lima,Realizado,Unimed,Jardim,191.02,
+1365,2023-11-20,2023-11,Monday,Drenagem Linfática,Dra. Ana Lima,Realizado,Particular,Jardim,161.86,4.0
+1366,2023-03-16,2023-03,Thursday,Peeling Químico,Dra. Paula Mendes,Faltou,Particular,Campestre,321.1,5.0
+1367,2023-01-10,2023-01,Tuesday,Limpeza de Pele,Dra. Ana Lima,Faltou,Particular,Jardim,178.52,
+1368,2024-04-14,2024-04,Sunday,Preenchimento Labial,Dra. Ana Lima,Cancelado,Particular,Campestre,1415.46,5.0
+1369,2024-09-28,2024-09,Saturday,Drenagem Linfática,Esteta Renata,Realizado,Bradesco Saúde,Vila Nova,144.06,
+1370,2024-07-30,2024-07,Tuesday,Radiofrequência,Dra. Ana Lima,Realizado,Particular,Centro,351.44,5.0
+1371,2023-04-13,2023-04,Thursday,Peeling Químico,Esteta Renata,Cancelado,Unimed,Alto da Serra,307.42,4.0
+1372,2023-03-17,2023-03,Friday,Limpeza de Pele,Esteta Carla,Faltou,Particular,Centro,183.04,
+1373,2024-07-04,2024-07,Thursday,Drenagem Linfática,Dra. Paula Mendes,Realizado,Particular,Jardim,135.22,3.0
+1374,2023-08-07,2023-08,Monday,Radiofrequência,Esteta Carla,Realizado,Particular,Vila Nova,384.96,5.0
+1375,2024-06-02,2024-06,Sunday,Peeling Químico,Esteta Carla,Realizado,Particular,Centro,327.99,
+1376,2023-09-29,2023-09,Friday,Drenagem Linfática,Esteta Carla,Realizado,Particular,Vila Nova,160.18,3.0
+1377,2023-05-16,2023-05,Tuesday,Botox,Esteta Renata,Realizado,Particular,Campestre,1214.75,4.0
+1378,2023-12-24,2023-12,Sunday,Microagulhamento,Esteta Carla,Cancelado,Particular,Campestre,407.5,5.0
+1379,2023-03-12,2023-03,Sunday,Depilação a Laser,Esteta Renata,Cancelado,Particular,Alto da Serra,239.13,5.0
+1380,2023-09-08,2023-09,Friday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Particular,Jardim,1555.32,
+1381,2024-01-14,2024-01,Sunday,Hidratação Facial,Esteta Renata,Faltou,Unimed,Centro,199.27,3.0
+1382,2023-10-19,2023-10,Thursday,Depilação a Laser,Dra. Paula Mendes,Realizado,Bradesco Saúde,Vila Nova,241.81,5.0
+1383,2023-06-11,2023-06,Sunday,Radiofrequência,Dra. Paula Mendes,Realizado,Particular,Jardim,334.35,5.0
+1384,2024-03-24,2024-03,Sunday,Hidratação Facial,Dra. Paula Mendes,Cancelado,Particular,Jardim,193.01,
+1385,2024-07-10,2024-07,Wednesday,Microagulhamento,Esteta Carla,Realizado,Unimed,Alto da Serra,382.15,
+1386,2024-12-21,2024-12,Saturday,Depilação a Laser,Esteta Renata,Realizado,Unimed,Alto da Serra,257.81,5.0
+1387,2023-11-06,2023-11,Monday,Preenchimento Labial,Esteta Carla,Realizado,Particular,Jardim,1635.66,
+1388,2024-09-18,2024-09,Wednesday,Limpeza de Pele,Dra. Paula Mendes,Realizado,Bradesco Saúde,Jardim,185.45,5.0
+1389,2024-10-31,2024-10,Thursday,Botox,Dra. Ana Lima,Realizado,Particular,Campestre,1125.21,
+1390,2024-06-25,2024-06,Tuesday,Depilação a Laser,Dra. Paula Mendes,Realizado,Particular,Campestre,250.86,5.0
+1391,2023-01-09,2023-01,Monday,Microagulhamento,Dra. Ana Lima,Cancelado,Unimed,Alto da Serra,379.22,
+1392,2024-11-14,2024-11,Thursday,Peeling Químico,Dra. Paula Mendes,Realizado,Particular,Alto da Serra,273.41,
+1393,2024-07-21,2024-07,Sunday,Depilação a Laser,Dra. Paula Mendes,Faltou,Particular,Vila Nova,267.87,3.0
+1394,2023-11-03,2023-11,Friday,Drenagem Linfática,Esteta Carla,Cancelado,Particular,Alto da Serra,159.3,
+1395,2024-11-10,2024-11,Sunday,Limpeza de Pele,Esteta Renata,Cancelado,Particular,Centro,176.55,
+1396,2023-04-17,2023-04,Monday,Limpeza de Pele,Dra. Ana Lima,Realizado,Particular,Campestre,173.51,
+1397,2023-05-18,2023-05,Thursday,Preenchimento Labial,Esteta Carla,Realizado,Particular,Centro,1391.98,4.0
+1398,2023-09-28,2023-09,Thursday,Botox,Dra. Paula Mendes,Faltou,Particular,Vila Nova,1086.11,
+1399,2023-04-29,2023-04,Saturday,Drenagem Linfática,Esteta Carla,Realizado,Unimed,Alto da Serra,149.92,5.0
+1400,2023-04-20,2023-04,Thursday,Radiofrequência,Esteta Renata,Realizado,Particular,Alto da Serra,335.69,
+1401,2024-07-20,2024-07,Saturday,Radiofrequência,Esteta Carla,Faltou,Bradesco Saúde,Centro,378.48,5.0
+1402,2023-06-09,2023-06,Friday,Limpeza de Pele,Dra. Ana Lima,Realizado,Unimed,Jardim,176.57,
+1403,2023-10-06,2023-10,Friday,Radiofrequência,Esteta Renata,Realizado,Particular,Alto da Serra,366.57,5.0
+1404,2023-10-16,2023-10,Monday,Microagulhamento,Esteta Carla,Realizado,Unimed,Jardim,406.64,4.0
+1405,2024-09-11,2024-09,Wednesday,Limpeza de Pele,Dra. Ana Lima,Cancelado,Particular,Alto da Serra,197.81,5.0
+1406,2023-08-04,2023-08,Friday,Microagulhamento,Esteta Carla,Faltou,Particular,Jardim,425.28,3.0
+1407,2023-12-18,2023-12,Monday,Peeling Químico,Esteta Carla,Cancelado,Particular,Jardim,290.59,4.0
+1408,2023-07-28,2023-07,Friday,Microagulhamento,Esteta Renata,Faltou,Particular,Campestre,417.07,
+1409,2024-12-04,2024-12,Wednesday,Depilação a Laser,Dra. Paula Mendes,Realizado,Bradesco Saúde,Vila Nova,259.32,
+1410,2024-10-11,2024-10,Friday,Limpeza de Pele,Esteta Renata,Realizado,Particular,Campestre,184.98,4.0
+1411,2023-09-28,2023-09,Thursday,Preenchimento Labial,Esteta Renata,Faltou,Bradesco Saúde,Campestre,1492.72,5.0
+1412,2024-06-01,2024-06,Saturday,Botox,Esteta Renata,Realizado,Particular,Centro,1305.76,5.0
+1413,2024-05-15,2024-05,Wednesday,Preenchimento Labial,Dra. Ana Lima,Realizado,Particular,Jardim,1457.55,5.0
+1414,2023-09-15,2023-09,Friday,Radiofrequência,Esteta Carla,Faltou,Bradesco Saúde,Centro,336.01,4.0
+1415,2023-02-22,2023-02,Wednesday,Microagulhamento,Dra. Ana Lima,Faltou,Unimed,Jardim,373.6,5.0
+1416,2023-04-05,2023-04,Wednesday,Limpeza de Pele,Esteta Carla,Cancelado,Particular,Campestre,185.67,4.0
+1417,2024-10-11,2024-10,Friday,Peeling Químico,Esteta Renata,Cancelado,Particular,Vila Nova,303.49,
+1418,2024-03-09,2024-03,Saturday,Radiofrequência,Esteta Carla,Cancelado,Unimed,Campestre,335.56,5.0
+1419,2023-10-11,2023-10,Wednesday,Drenagem Linfática,Esteta Carla,Realizado,Unimed,Vila Nova,149.12,
+1420,2023-02-15,2023-02,Wednesday,Preenchimento Labial,Dra. Paula Mendes,Realizado,Particular,Alto da Serra,1572.28,3.0
+1421,2023-01-04,2023-01,Wednesday,Limpeza de Pele,Esteta Renata,Realizado,Particular,Vila Nova,188.11,
+1422,2023-12-08,2023-12,Friday,Depilação a Laser,Dra. Paula Mendes,Faltou,Particular,Vila Nova,252.95,5.0
+1423,2023-05-14,2023-05,Sunday,Preenchimento Labial,Esteta Renata,Cancelado,Particular,Alto da Serra,1623.79,4.0
+1424,2024-10-14,2024-10,Monday,Radiofrequência,Esteta Carla,Realizado,Unimed,Jardim,381.28,4.0
+1425,2023-09-26,2023-09,Tuesday,Botox,Dra. Ana Lima,Realizado,Unimed,Vila Nova,1295.9,
+1426,2023-06-15,2023-06,Thursday,Hidratação Facial,Esteta Carla,Realizado,Bradesco Saúde,Centro,206.18,
+1427,2024-03-28,2024-03,Thursday,Peeling Químico,Dra. Paula Mendes,Faltou,Unimed,Alto da Serra,283.34,3.0
+1428,2024-07-18,2024-07,Thursday,Botox,Dra. Paula Mendes,Realizado,Particular,Centro,1133.6,
+1429,2024-12-23,2024-12,Monday,Hidratação Facial,Esteta Carla,Realizado,Particular,Jardim,214.86,5.0
+1430,2024-03-13,2024-03,Wednesday,Preenchimento Labial,Dra. Paula Mendes,Cancelado,Unimed,Campestre,1476.14,
+1431,2024-07-28,2024-07,Sunday,Drenagem Linfática,Dra. Paula Mendes,Realizado,Particular,Campestre,161.61,5.0
+1432,2023-01-10,2023-01,Tuesday,Depilação a Laser,Esteta Renata,Realizado,Bradesco Saúde,Jardim,243.58,5.0
+1433,2023-04-25,2023-04,Tuesday,Microagulhamento,Esteta Renata,Faltou,Particular,Campestre,406.85,4.0
+1434,2023-03-19,2023-03,Sunday,Microagulhamento,Esteta Carla,Realizado,Bradesco Saúde,Jardim,397.1,
+1435,2024-12-08,2024-12,Sunday,Microagulhamento,Dra. Ana Lima,Faltou,Particular,Vila Nova,369.42,
+1436,2023-06-02,2023-06,Friday,Botox,Dra. Ana Lima,Cancelado,Unimed,Jardim,1092.88,
+1437,2024-07-12,2024-07,Friday,Botox,Esteta Carla,Cancelado,Particular,Campestre,1232.26,5.0
+1438,2023-02-06,2023-02,Monday,Peeling Químico,Esteta Renata,Realizado,Unimed,Centro,304.82,
+1439,2024-01-14,2024-01,Sunday,Drenagem Linfática,Dra. Paula Mendes,Faltou,Bradesco Saúde,Alto da Serra,153.62,5.0
+1440,2024-08-19,2024-08,Monday,Botox,Esteta Carla,Realizado,Particular,Centro,1193.33,
+1441,2024-07-19,2024-07,Friday,Limpeza de Pele,Esteta Carla,Realizado,Unimed,Centro,169.0,
+1442,2023-06-01,2023-06,Thursday,Drenagem Linfática,Dra. Ana Lima,Realizado,Bradesco Saúde,Vila Nova,138.59,
+1443,2024-03-16,2024-03,Saturday,Radiofrequência,Esteta Carla,Realizado,Particular,Jardim,362.65,
+1444,2023-05-11,2023-05,Thursday,Depilação a Laser,Dra. Ana Lima,Cancelado,Bradesco Saúde,Centro,251.49,
+1445,2023-02-12,2023-02,Sunday,Radiofrequência,Esteta Carla,Realizado,Unimed,Jardim,343.92,5.0
+1446,2023-11-12,2023-11,Sunday,Preenchimento Labial,Esteta Carla,Realizado,Unimed,Alto da Serra,1611.25,
+1447,2024-01-09,2024-01,Tuesday,Limpeza de Pele,Dra. Paula Mendes,Faltou,Particular,Vila Nova,167.43,5.0
+1448,2023-02-10,2023-02,Friday,Drenagem Linfática,Dra. Ana Lima,Realizado,Particular,Vila Nova,164.77,5.0
+1449,2024-01-02,2024-01,Tuesday,Radiofrequência,Esteta Carla,Realizado,Particular,Campestre,338.99,4.0
+1450,2023-08-04,2023-08,Friday,Peeling Químico,Esteta Renata,Realizado,Particular,Centro,329.23,5.0
+1451,2024-11-29,2024-11,Friday,Peeling Químico,Esteta Renata,Realizado,Particular,Campestre,323.57,5.0
+1452,2023-09-13,2023-09,Wednesday,Radiofrequência,Esteta Renata,Realizado,Particular,Jardim,384.07,3.0
+1453,2024-11-13,2024-11,Wednesday,Microagulhamento,Dra. Ana Lima,Cancelado,Particular,Alto da Serra,371.46,4.0
+1454,2023-04-16,2023-04,Sunday,Microagulhamento,Esteta Carla,Realizado,Particular,Alto da Serra,428.99,
+1455,2023-12-29,2023-12,Friday,Preenchimento Labial,Esteta Carla,Faltou,Particular,Jardim,1404.11,
+1456,2024-07-27,2024-07,Saturday,Drenagem Linfática,Dra. Ana Lima,Faltou,Particular,Campestre,137.42,4.0
+1457,2024-02-21,2024-02,Wednesday,Depilação a Laser,Dra. Paula Mendes,Realizado,Bradesco Saúde,Centro,241.63,
+1458,2024-09-27,2024-09,Friday,Hidratação Facial,Esteta Renata,Cancelado,Bradesco Saúde,Alto da Serra,219.47,
+1459,2023-06-08,2023-06,Thursday,Radiofrequência,Dra. Paula Mendes,Faltou,Particular,Campestre,336.94,5.0
+1460,2023-08-31,2023-08,Thursday,Hidratação Facial,Esteta Renata,Realizado,Particular,Jardim,182.32,4.0
+1461,2023-06-16,2023-06,Friday,Preenchimento Labial,Dra. Ana Lima,Cancelado,Bradesco Saúde,Centro,1485.62,
+1462,2023-07-01,2023-07,Saturday,Depilação a Laser,Esteta Renata,Cancelado,Unimed,Jardim,235.47,4.0
+1463,2024-02-27,2024-02,Tuesday,Radiofrequência,Dra. Ana Lima,Realizado,Bradesco Saúde,Campestre,369.15,3.0
+1464,2023-01-26,2023-01,Thursday,Depilação a Laser,Dra. Paula Mendes,Realizado,Particular,Centro,253.81,
+1465,2023-07-03,2023-07,Monday,Preenchimento Labial,Esteta Renata,Realizado,Bradesco Saúde,Campestre,1397.53,5.0
+1466,2023-12-07,2023-12,Thursday,Microagulhamento,Esteta Carla,Cancelado,Particular,Campestre,422.82,5.0
+1467,2024-02-26,2024-02,Monday,Hidratação Facial,Esteta Carla,Cancelado,Particular,Vila Nova,211.19,
+1468,2024-11-16,2024-11,Saturday,Depilação a Laser,Esteta Carla,Realizado,Unimed,Vila Nova,231.47,
+1469,2023-09-12,2023-09,Tuesday,Hidratação Facial,Esteta Carla,Cancelado,Particular,Centro,197.35,5.0
+1470,2023-10-01,2023-10,Sunday,Radiofrequência,Esteta Carla,Faltou,Unimed,Centro,345.06,
+1471,2023-06-13,2023-06,Tuesday,Peeling Químico,Esteta Renata,Realizado,Particular,Alto da Serra,295.74,5.0
+1472,2024-12-19,2024-12,Thursday,Botox,Esteta Carla,Faltou,Unimed,Centro,1194.58,
+1473,2023-04-21,2023-04,Friday,Hidratação Facial,Esteta Carla,Realizado,Unimed,Centro,180.19,5.0
+1474,2024-01-27,2024-01,Saturday,Botox,Dra. Ana Lima,Faltou,Bradesco Saúde,Alto da Serra,1208.11,5.0
+1475,2023-02-09,2023-02,Thursday,Hidratação Facial,Dra. Ana Lima,Faltou,Particular,Jardim,209.23,4.0
+1476,2024-04-26,2024-04,Friday,Preenchimento Labial,Esteta Carla,Realizado,Unimed,Centro,1635.02,
+1477,2023-08-16,2023-08,Wednesday,Limpeza de Pele,Esteta Carla,Faltou,Particular,Vila Nova,194.11,5.0
+1478,2023-07-24,2023-07,Monday,Radiofrequência,Esteta Renata,Cancelado,Particular,Alto da Serra,367.98,
+1479,2024-04-16,2024-04,Tuesday,Limpeza de Pele,Esteta Carla,Realizado,Particular,Campestre,181.12,4.0
+1480,2023-12-25,2023-12,Monday,Hidratação Facial,Dra. Ana Lima,Cancelado,Unimed,Centro,180.72,5.0
+1481,2023-11-09,2023-11,Thursday,Limpeza de Pele,Dra. Paula Mendes,Faltou,Particular,Vila Nova,162.15,4.0
+1482,2023-08-22,2023-08,Tuesday,Botox,Esteta Carla,Realizado,Unimed,Campestre,1256.06,4.0
+1483,2023-08-17,2023-08,Thursday,Radiofrequência,Esteta Renata,Realizado,Particular,Centro,330.84,3.0
+1484,2023-01-25,2023-01,Wednesday,Hidratação Facial,Esteta Carla,Realizado,Particular,Campestre,215.08,4.0
+1485,2024-11-06,2024-11,Wednesday,Limpeza de Pele,Esteta Renata,Cancelado,Particular,Centro,173.24,
+1486,2023-07-17,2023-07,Monday,Radiofrequência,Esteta Renata,Faltou,Unimed,Alto da Serra,322.19,
+1487,2024-02-13,2024-02,Tuesday,Preenchimento Labial,Dra. Ana Lima,Realizado,Unimed,Campestre,1501.0,5.0
+1488,2023-12-03,2023-12,Sunday,Peeling Químico,Dra. Ana Lima,Realizado,Particular,Centro,288.37,5.0
+1489,2023-10-13,2023-10,Friday,Depilação a Laser,Esteta Renata,Cancelado,Bradesco Saúde,Campestre,228.26,
+1490,2023-03-13,2023-03,Monday,Limpeza de Pele,Esteta Renata,Realizado,Particular,Campestre,163.65,
+1491,2023-10-13,2023-10,Friday,Preenchimento Labial,Esteta Renata,Faltou,Particular,Centro,1634.54,5.0
+1492,2023-12-26,2023-12,Tuesday,Drenagem Linfática,Dra. Ana Lima,Realizado,Bradesco Saúde,Campestre,148.68,4.0
+1493,2024-10-18,2024-10,Friday,Microagulhamento,Esteta Carla,Realizado,Particular,Centro,401.62,
+1494,2024-06-05,2024-06,Wednesday,Hidratação Facial,Esteta Carla,Realizado,Bradesco Saúde,Campestre,200.96,
+1495,2024-02-14,2024-02,Wednesday,Peeling Químico,Dra. Paula Mendes,Faltou,Unimed,Vila Nova,296.02,
+1496,2024-11-26,2024-11,Tuesday,Radiofrequência,Esteta Renata,Realizado,Particular,Alto da Serra,363.07,3.0
+1497,2024-07-03,2024-07,Wednesday,Microagulhamento,Esteta Renata,Cancelado,Particular,Vila Nova,370.7,5.0
+1498,2023-12-06,2023-12,Wednesday,Microagulhamento,Esteta Carla,Cancelado,Unimed,Jardim,439.69,
+1499,2023-01-29,2023-01,Sunday,Peeling Químico,Dra. Paula Mendes,Cancelado,Particular,Vila Nova,299.41,4.0
+1500,2023-04-29,2023-04,Saturday,Preenchimento Labial,Dra. Ana Lima,Realizado,Particular,Jardim,1575.03,5.0
